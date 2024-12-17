@@ -1,4 +1,4 @@
-Got it! Here's your updated README with the topics linked using the format `[topic](link to topic)`:
+Here's your updated README with the folder names modified as per your request:
 
 ---
 
@@ -18,45 +18,45 @@ If you're a beginner or expert in cybersecurity, you're welcome to follow along,
 ### 🖥️ **Server-Side Vulnerabilities**
 These are vulnerabilities that occur in the backend or server-side components of web applications.
 
-- [SQL Injection](server-side/sql-injection/)
-- [Authentication Issues](server-side/authentication/)
-- [Path Traversal](server-side/path-traversal/)
-- [Command Injection](server-side/command-injection/)
-- [Business Logic Vulnerabilities](server-side/business-logic/)
-- [Information Disclosure](server-side/information-disclosure/)
-- [Access Control](server-side/access-control/)
-- [File Upload Vulnerabilities](server-side/file-upload/)
-- [Race Conditions](server-side/race-conditions/)
-- [Server-Side Request Forgery (SSRF)](server-side/ssrf/)
-- [XXE Injection](server-side/xxe-injection/)
-- [NoSQL Injection](server-side/nosql-injection/)
-- [API Testing](server-side/api-testing/)
-- [Web Cache Deception](server-side/web-cache-deception/)
+- [SQL Injection](Server_Side_topics/sql-injection/)
+- [Authentication Issues](Server_Side_topics/authentication/)
+- [Path Traversal](Server_Side_topics/path-traversal/)
+- [Command Injection](Server_Side_topics/command-injection/)
+- [Business Logic Vulnerabilities](Server_Side_topics/business-logic/)
+- [Information Disclosure](Server_Side_topics/information-disclosure/)
+- [Access Control](Server_Side_topics/access-control/)
+- [File Upload Vulnerabilities](Server_Side_topics/file-upload/)
+- [Race Conditions](Server_Side_topics/race-conditions/)
+- [Server-Side Request Forgery (SSRF)](Server_Side_topics/ssrf/)
+- [XXE Injection](Server_Side_topics/xxe-injection/)
+- [NoSQL Injection](Server_Side_topics/nosql-injection/)
+- [API Testing](Server_Side_topics/api-testing/)
+- [Web Cache Deception](Server_Side_topics/web-cache-deception/)
 
 ### 🌐 **Client-Side Vulnerabilities**
 These vulnerabilities typically occur on the front-end, involving client-side interactions and web browsers.
 
-- [Cross-Site Scripting (XSS)](client-side/xss/)
-- [Cross-Site Request Forgery (CSRF)](client-side/csrf/)
-- [Cross-Origin Resource Sharing (CORS)](client-side/cors/)
-- [Clickjacking](client-side/clickjacking/)
-- [DOM-Based Vulnerabilities](client-side/dom-based-vulnerabilities/)
-- [WebSockets Security](client-side/websockets-security/)
+- [Cross-Site Scripting (XSS)](Client_Side_topics/xss/)
+- [Cross-Site Request Forgery (CSRF)](Client_Side_topics/csrf/)
+- [Cross-Origin Resource Sharing (CORS)](Client_Side_topics/cors/)
+- [Clickjacking](Client_Side_topics/clickjacking/)
+- [DOM-Based Vulnerabilities](Client_Side_topics/dom-based-vulnerabilities/)
+- [WebSockets Security](Client_Side_topics/websockets-security/)
 
 ### ⚙️ **Advanced Topics**
 Diving deeper into more complex attack vectors and emerging trends in security.
 
-- [Insecure Deserialization](advanced/insecure-deserialization/)
-- [Web LLM Attacks](advanced/web-llm-attacks/)
-- [GraphQL API Vulnerabilities](advanced/graphql-api-vulnerabilities/)
-- [Server-Side Template Injection (SSTI)](advanced/ssti/)
-- [Web Cache Poisoning](advanced/web-cache-poisoning/)
-- [HTTP Host Header Attacks](advanced/http-host-header-attacks/)
-- [HTTP Request Smuggling](advanced/http-request-smuggling/)
-- [OAuth Authentication](advanced/oauth-authentication/)
-- [JWT Attacks](advanced/jwt-attacks/)
-- [Prototype Pollution](advanced/prototype-pollution/)
-- [Essential Skills for Penetration Testing](advanced/essential-skills/)
+- [Insecure Deserialization](Advanced_topics/insecure-deserialization/)
+- [Web LLM Attacks](Advanced_topics/web-llm-attacks/)
+- [GraphQL API Vulnerabilities](Advanced_topics/graphql-api-vulnerabilities/)
+- [Server-Side Template Injection (SSTI)](Advanced_topics/ssti/)
+- [Web Cache Poisoning](Advanced_topics/web-cache-poisoning/)
+- [HTTP Host Header Attacks](Advanced_topics/http-host-header-attacks/)
+- [HTTP Request Smuggling](Advanced_topics/http-request-smuggling/)
+- [OAuth Authentication](Advanced_topics/oauth-authentication/)
+- [JWT Attacks](Advanced_topics/jwt-attacks/)
+- [Prototype Pollution](Advanced_topics/prototype-pollution/)
+- [Essential Skills for Penetration Testing](Advanced_topics/essential-skills/)
 
 ---
 
