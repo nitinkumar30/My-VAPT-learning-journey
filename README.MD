@@ -1,3 +1,7 @@
+Got it! Here's your updated README with the topics linked using the format `[topic](link to topic)`:
+
+---
+
 # 🛡️ VAPT Journey: Vulnerability Assessment & Penetration Testing 🚀
 
 Welcome to my GitHub repository where I document my **daily progress on Vulnerability Assessment and Penetration Testing (VAPT)**! 💻🔐
@@ -14,45 +18,45 @@ If you're a beginner or expert in cybersecurity, you're welcome to follow along,
 ### 🖥️ **Server-Side Vulnerabilities**
 These are vulnerabilities that occur in the backend or server-side components of web applications.
 
-- **SQL Injection** 🛠️
-- **Authentication Issues** 🔒
-- **Path Traversal** 🚧
-- **Command Injection** 💻
-- **Business Logic Vulnerabilities** 📊
-- **Information Disclosure** 📡
-- **Access Control** 🔐
-- **File Upload Vulnerabilities** 📂
-- **Race Conditions** ⚡
-- **Server-Side Request Forgery (SSRF)** 🌐
-- **XXE Injection** 🏴‍☠️
-- **NoSQL Injection** 🧠
-- **API Testing** 🔌
-- **Web Cache Deception** 💨
+- [SQL Injection](server-side/sql-injection/)
+- [Authentication Issues](server-side/authentication/)
+- [Path Traversal](server-side/path-traversal/)
+- [Command Injection](server-side/command-injection/)
+- [Business Logic Vulnerabilities](server-side/business-logic/)
+- [Information Disclosure](server-side/information-disclosure/)
+- [Access Control](server-side/access-control/)
+- [File Upload Vulnerabilities](server-side/file-upload/)
+- [Race Conditions](server-side/race-conditions/)
+- [Server-Side Request Forgery (SSRF)](server-side/ssrf/)
+- [XXE Injection](server-side/xxe-injection/)
+- [NoSQL Injection](server-side/nosql-injection/)
+- [API Testing](server-side/api-testing/)
+- [Web Cache Deception](server-side/web-cache-deception/)
 
 ### 🌐 **Client-Side Vulnerabilities**
 These vulnerabilities typically occur on the front-end, involving client-side interactions and web browsers.
 
-- **Cross-Site Scripting (XSS)** 🧨
-- **Cross-Site Request Forgery (CSRF)** 🚸
-- **Cross-Origin Resource Sharing (CORS)** 🔄
-- **Clickjacking** 🎯
-- **DOM-Based Vulnerabilities** 💥
-- **WebSockets Security** 🌍
+- [Cross-Site Scripting (XSS)](client-side/xss/)
+- [Cross-Site Request Forgery (CSRF)](client-side/csrf/)
+- [Cross-Origin Resource Sharing (CORS)](client-side/cors/)
+- [Clickjacking](client-side/clickjacking/)
+- [DOM-Based Vulnerabilities](client-side/dom-based-vulnerabilities/)
+- [WebSockets Security](client-side/websockets-security/)
 
 ### ⚙️ **Advanced Topics**
 Diving deeper into more complex attack vectors and emerging trends in security.
 
-- **Insecure Deserialization** 🔓
-- **Web LLM Attacks** 🤖
-- **GraphQL API Vulnerabilities** 📈
-- **Server-Side Template Injection (SSTI)** 🧩
-- **Web Cache Poisoning** 💀
-- **HTTP Host Header Attacks** 📍
-- **HTTP Request Smuggling** 🏃‍♂️
-- **OAuth Authentication** 🛡️
-- **JWT Attacks** 🔑
-- **Prototype Pollution** 🧪
-- **Essential Skills for Penetration Testing** 🎓
+- [Insecure Deserialization](advanced/insecure-deserialization/)
+- [Web LLM Attacks](advanced/web-llm-attacks/)
+- [GraphQL API Vulnerabilities](advanced/graphql-api-vulnerabilities/)
+- [Server-Side Template Injection (SSTI)](advanced/ssti/)
+- [Web Cache Poisoning](advanced/web-cache-poisoning/)
+- [HTTP Host Header Attacks](advanced/http-host-header-attacks/)
+- [HTTP Request Smuggling](advanced/http-request-smuggling/)
+- [OAuth Authentication](advanced/oauth-authentication/)
+- [JWT Attacks](advanced/jwt-attacks/)
+- [Prototype Pollution](advanced/prototype-pollution/)
+- [Essential Skills for Penetration Testing](advanced/essential-skills/)
 
 ---
 
