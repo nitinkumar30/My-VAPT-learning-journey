@@ -1,7 +1,3 @@
-Here's your updated README with the folder names modified as per your request:
-
----
-
 # 🛡️ VAPT Journey: Vulnerability Assessment & Penetration Testing 🚀
 
 Welcome to my GitHub repository where I document my **daily progress on Vulnerability Assessment and Penetration Testing (VAPT)**! 💻🔐
@@ -18,45 +14,45 @@ If you're a beginner or expert in cybersecurity, you're welcome to follow along,
 ### 🖥️ **Server-Side Vulnerabilities**
 These are vulnerabilities that occur in the backend or server-side components of web applications.
 
-- [SQL Injection](Server_Side_topics/sql-injection/)
-- [Authentication Issues](Server_Side_topics/authentication/)
-- [Path Traversal](Server_Side_topics/path-traversal/)
-- [Command Injection](Server_Side_topics/command-injection/)
-- [Business Logic Vulnerabilities](Server_Side_topics/business-logic/)
-- [Information Disclosure](Server_Side_topics/information-disclosure/)
-- [Access Control](Server_Side_topics/access-control/)
-- [File Upload Vulnerabilities](Server_Side_topics/file-upload/)
-- [Race Conditions](Server_Side_topics/race-conditions/)
-- [Server-Side Request Forgery (SSRF)](Server_Side_topics/ssrf/)
-- [XXE Injection](Server_Side_topics/xxe-injection/)
-- [NoSQL Injection](Server_Side_topics/nosql-injection/)
-- [API Testing](Server_Side_topics/api-testing/)
-- [Web Cache Deception](Server_Side_topics/web-cache-deception/)
+- [**SQL Injection**](Server_Side_topics/SQL_injection/SQL_injection.md) 🛠️
+- [**Authentication Issues**](Server_Side_topics/Authentication/Authentication.md) 🔒
+- [**Path Traversal**](Server_Side_topics/Path_traversal/Path_traversal.md) 🚧
+- [**Command Injection**](Server_Side_topics/Command_injection/Command_injection.md) 💻
+- [**Business Logic Vulnerabilities**](Server_Side_topics/Business_logic_vulnerabilities/Business_logic_vulnerabilities.md) 📊
+- [**Information Disclosure**](Server_Side_topics/Information_disclosure/Information_disclosure.md) 📡
+- [**Access Control**](Server_Side_topics/Access_control/Access_control.md) 🔐
+- [**File Upload Vulnerabilities**](Server_Side_topics/File_upload_vulnerabilities/File_upload_vulnerabilities.md) 📂
+- [**Race Conditions**](Server_Side_topics/Race_conditions/Race_conditions.md) ⚡
+- [**Server-Side Request Forgery (SSRF)**](Server_Side_topics/Server-side_request_forgery_SSRF/Server-side_request_forgery_SSRF.md) 🌐
+- [**XXE Injection**](Server_Side_topics/XXE_injection/XXE_injection.md) 🏴‍☠️
+- [**NoSQL Injection**](Server_Side_topics/NoSQL_injection/NoSQL_injection.md) 🧠
+- [**API Testing**](Server_Side_topics/API_testing/API_testing.md) 🔌
+- [**Web Cache Deception**](Server_Side_topics/Web_cache_deception/Web_cache_deception.md) 💨
 
 ### 🌐 **Client-Side Vulnerabilities**
 These vulnerabilities typically occur on the front-end, involving client-side interactions and web browsers.
 
-- [Cross-Site Scripting (XSS)](Client_Side_topics/xss/)
-- [Cross-Site Request Forgery (CSRF)](Client_Side_topics/csrf/)
-- [Cross-Origin Resource Sharing (CORS)](Client_Side_topics/cors/)
-- [Clickjacking](Client_Side_topics/clickjacking/)
-- [DOM-Based Vulnerabilities](Client_Side_topics/dom-based-vulnerabilities/)
-- [WebSockets Security](Client_Side_topics/websockets-security/)
+- [**Cross-Site Scripting (XSS)**](Client_Side_topics/Cross-site_scripting_XSS/Cross-site_scripting_XSS.md) 🧨
+- [**Cross-Site Request Forgery (CSRF)**](Client_Side_topics/Cross-site_request_forgery_CSRF/Cross-site_request_forgery_CSRF.md) 🚸
+- [**Cross-Origin Resource Sharing (CORS)**](Client_Side_topics/Cross-origin_resource_sharing_CORS/Cross-origin_resource_sharing_CORS.md) 🔄
+- [**Clickjacking**](Client_Side_topics/Clickjacking/Clickjacking.md) 🎯
+- [**DOM-Based Vulnerabilities**](Client_Side_topics/DOM-based_vulnerabilities/DOM-based_vulnerabilities.md) 💥
+- [**WebSockets Security**](Client_Side_topics/WebSockets/WebSockets.md) 🌍
 
 ### ⚙️ **Advanced Topics**
 Diving deeper into more complex attack vectors and emerging trends in security.
 
-- [Insecure Deserialization](Advanced_topics/insecure-deserialization/)
-- [Web LLM Attacks](Advanced_topics/web-llm-attacks/)
-- [GraphQL API Vulnerabilities](Advanced_topics/graphql-api-vulnerabilities/)
-- [Server-Side Template Injection (SSTI)](Advanced_topics/ssti/)
-- [Web Cache Poisoning](Advanced_topics/web-cache-poisoning/)
-- [HTTP Host Header Attacks](Advanced_topics/http-host-header-attacks/)
-- [HTTP Request Smuggling](Advanced_topics/http-request-smuggling/)
-- [OAuth Authentication](Advanced_topics/oauth-authentication/)
-- [JWT Attacks](Advanced_topics/jwt-attacks/)
-- [Prototype Pollution](Advanced_topics/prototype-pollution/)
-- [Essential Skills for Penetration Testing](Advanced_topics/essential-skills/)
+- [**Insecure Deserialization**](Advanced_topics/Insecure_deserialization/Insecure_deserialization.md) 🔓
+- [**Web LLM Attacks**](Advanced_topics/Web_LLM_attacks/Web_LLM_attacks.md) 🤖
+- [**GraphQL API Vulnerabilities**](Advanced_topics/GraphQL_API_vulnerabilities/GraphQL_API_vulnerabilities.md) 📈
+- [**Server-Side Template Injection (SSTI)**](Advanced_topics/Server-side_template_injection/Server-side_template_injection.md) 🧩
+- [**Web Cache Poisoning**](Advanced_topics/Web_cache_poisoning/Web_cache_poisoning.md) 💀
+- [**HTTP Host Header Attacks**](Advanced_topics/HTTP_Host_header_attacks/HTTP_Host_header_attacks.md) 📍
+- [**HTTP Request Smuggling**](Advanced_topics/HTTP_request_smuggling/HTTP_request_smuggling.md) 🏃‍♂️
+- [**OAuth Authentication**](Advanced_topics/OAuth_authentication/OAuth_authentication.md) 🛡️
+- [**JWT Attacks**](Advanced_topics/JWT_attacks/JWT_attacks.md) 🔑
+- [**Prototype Pollution**](Advanced_topics/Prototype_pollution/Prototype_pollution.md) 🧪
+- [**Essential Skills for Penetration Testing**](Advanced_topics/Essential_skills/Essential_skills.md) 🎓
 
 ---
 
