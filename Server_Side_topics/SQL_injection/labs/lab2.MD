@@ -13,5 +13,5 @@ Solution:-
 * We've tried bypassing password field with ```--``` as in SQL language, comments are denoted with -- only
 * This solves our 2nd lab, Congratulations !!
 
-![solution_lab2.png](img_2.png)
+![solution_lab2.png](../images/img_2.png)
 

@@ -16,4 +16,4 @@ Solution:-
 * Add it at then end of search bar & press ENTER.
 * Congrats, you solved the lab !!
 
-![Solution_lab3.png](img_3.png)
+![Solution_lab3.png](../images/img_3.png)

@@ -30,4 +30,4 @@ Solution:-
 
 > NOTE :- Use encoded terms if normal text is giving Internal Server error response with CTRL+U.
 
-![solution_lab6.png](img_8.png)
+![solution_lab6.png](../images/img_8.png)

@@ -33,4 +33,4 @@ Solution:-
 
 > NOTE :- Use encoded terms if normal text is giving Internal Server error response with CTRL+U.
 
-![solution_lab7.png](img_9.png)
+![solution_lab7.png](../images/img_9.png)

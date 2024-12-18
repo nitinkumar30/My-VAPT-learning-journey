@@ -17,5 +17,5 @@ Solution:-
 * Just a simple payload will work here. 
 * Add ``` ' OR 1=1--``` at the end & you'll end up solving the lab
 
-![solution_lab1.png](img_1.png)
+![solution_lab1.png](../images/img_1.png)
 

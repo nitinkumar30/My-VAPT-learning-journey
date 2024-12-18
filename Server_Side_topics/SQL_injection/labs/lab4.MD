@@ -19,9 +19,9 @@ NOTE: In case it's not solved via above method, you can try using BurpSuite tool
 Step 1: Turn on Intercept in BurpSuit
 Step 2: Now, select category & forward all requests under Proxy tab
 Step 3: Now, forward that request to Repeater by right click >> Send to Repeater & changing the request string to ```'union+select+'abc',@@version#```
-![img_4.png](img_4.png)
+![img_4.png](../images/img_4.png)
 Step 4: Click send & search for abc string, below that, you'll see linux version printed
-![img_5.png](img_5.png)
+![img_5.png](../images/img_5.png)
 Congrats, now you need to right click & click on Show response in browser & copy paste the link in browser to solve the lab successfully.  
 
-![img_6.png](img_6.png)
+![img_6.png](../images/img_6.png)

@@ -8,7 +8,7 @@
 
 ## Demonstration
 
-![SQLInjection.png](img.png)
+![SQLInjection.png](images/img.png)
 
 ## Overview
 
@@ -55,7 +55,7 @@ First-order SQL injection occurs when the application processes user input from 
 Second-order SQL injection occurs when the application takes user input from an HTTP request and stores it for future use.  
 This is usually done by placing the input into a database, but no vulnerability occurs at the point where the data is stored. Later, when handling a different HTTP request, the application retrieves the stored data and incorporates it into a SQL query in an unsafe way. For this reason, second-order SQL injection is also known as stored SQL injection. 
 
-![img_7.png](img_7.png)
+![img_7.png](images/img_7.png)
 
 # SQL injection in different contexts
 
@@ -98,13 +98,17 @@ Application functionality that places untrusted data into some parts of the quer
 
 ## Labs solved
 
-1. [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data) - [Solution](lab1.MD)  
-2. [SQL injection vulnerability allowing login bypass](https://portswigger.net/web-security/sql-injection/lab-login-bypass) - [Solution](lab2.MD)
-3. [SQL injection attack, querying the database type and version on Oracle](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle) - [Solution](lab3.MD)
-4. [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft) - [Solution](lab4.MD)
-5. [SQL injection attack, listing the database contents on non-Oracle databases](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle) - [Solution](lab5.MD)
-6. [SQL injection with filter bypass via XML encoding](https://portswigger.net/web-security/sql-injection/lab-sql-injection-with-filter-bypass-via-xml-encoding) - [Solution](lab6.MD)
-7. [SQL injection attack, listing the database contents on Oracle](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle) - [Solution](lab7.MD)  
-8. 
+1. [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data) - [Solution](labs/lab1.MD)  
+2. [SQL injection vulnerability allowing login bypass](https://portswigger.net/web-security/sql-injection/lab-login-bypass) - [Solution](labs/lab2.MD)
+3. [SQL injection attack, querying the database type and version on Oracle](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle) - [Solution](labs/lab3.MD)
+4. [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft) - [Solution](labs/lab4.MD)
+5. [SQL injection attack, listing the database contents on non-Oracle databases](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle) - [Solution](labs/lab5.MD)
+6. [SQL injection with filter bypass via XML encoding](https://portswigger.net/web-security/sql-injection/lab-sql-injection-with-filter-bypass-via-xml-encoding) - [Solution](labs/lab6.MD)
+7. [SQL injection attack, listing the database contents on Oracle](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle) - [Solution](labs/lab7.MD)  
+8. [SQL injection UNION attack, determining the number of columns returned by the query](https://portswigger.net/web-security/sql-injection/union-attacks/lab-determine-number-of-columns) - [Solution](labs/lab8.MD)
+9. [SQL injection UNION attack, finding a column containing text](https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text) - [Solution](labs/lab9.MD)
+10. [SQL injection UNION attack, retrieving multiple values in a single column](https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column) - [Solution](labs/lab10.MD)
+11. [Blind SQL injection with conditional responses](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses) - [Solution](lab11.MD)
+12. 
 
 
