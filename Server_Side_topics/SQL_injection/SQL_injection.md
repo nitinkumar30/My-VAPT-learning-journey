@@ -108,7 +108,7 @@ Application functionality that places untrusted data into some parts of the quer
 8. [SQL injection UNION attack, determining the number of columns returned by the query](https://portswigger.net/web-security/sql-injection/union-attacks/lab-determine-number-of-columns) - [Solution](labs/lab8.MD)
 9. [SQL injection UNION attack, finding a column containing text](https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text) - [Solution](labs/lab9.MD)
 10. [SQL injection UNION attack, retrieving multiple values in a single column](https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column) - [Solution](labs/lab10.MD)
-11. [Blind SQL injection with conditional responses](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses) - [Solution](lab11.MD)
+11. [Blind SQL injection with conditional responses](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses) - [Solution](labs/lab11.MD)
 12. 
 
 
